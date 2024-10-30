@@ -6,4 +6,5 @@ This is the source code for Multilayer Graph Attention Networks for COVID-19 Pre
 
 
 ## Visualization of the multilayer network
-![Visualization_of_the_multilayer_network](https://github.com/Fujimoto-lab-UTHealth-HHD/GAT-COVID19/blob/main/Visualization_of_the_multilayer_network.png){:height="50%" width="50%"}
+<img src="https://github.com/Fujimoto-lab-UTHealth-HHD/GAT-COVID19/blob/main/Visualization_of_the_multilayer_network.png" width="200" height = "200" align=center />
+
