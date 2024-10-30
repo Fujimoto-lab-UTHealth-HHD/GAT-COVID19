@@ -1,4 +1,6 @@
 # GAT-COVID19
-Application of graph attention neural network to COVID-19 social network.
+This is the source code for Multilayer Graph Attention Networks for COVID-19 Prediction with the Fusion Method and Explainable AI. The flowchart and visualization of the multilayer network figures are shown below:
 
-## Packages
+## Flowchart
+
+## Visualization of the multilayer network
