@@ -25,7 +25,7 @@ McWilliams School of Biomedical Informatics at UTHealth Houston
 E-mail: Kayo.Fujimoto@uth.tmc.edu
 
 ### Usage
-Use MATRIX.ipynb for training FGAT model and find GNNExplainer results.
+Use MATRIX.ipynb for training FGAT model and finding GNNExplainer results.
 
 Use Supra_graph.ipynb for training Supra_graph model.
 
